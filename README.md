@@ -8,7 +8,7 @@ An assisting system in assessing students assessment that could be used by the f
 * [Who has access?](#who-has-access)
 
 ## Organization
-<img src="images/AdDU CS.jpg" align="center" width="150px" height="auto"/>Ateneo de Davao University - Computer Studies
+<img src="images/AdDU CS.jpg" align="center" width="150px" height="auto" /> Ateneo de Davao University - Computer Studies
 
 ## Technologies
 We are going to use the MEVN stack for this system that stand for: 
